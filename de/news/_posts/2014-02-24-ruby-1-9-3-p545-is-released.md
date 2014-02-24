@@ -2,26 +2,25 @@
 layout: news_post
 title: "Ruby 1.9.3-p545 veröffentlicht"
 author: "usa"
-translator: "Quintus"
+translator: "Florian Gilcher"
 date: 2014-02-24 05:00:00 +0000
 lang: de
 ---
 
-Happy Birthday, Ruby!  Heute, am 24. Februar, ist Rubys 21. Geburtstag
-und anlässlich dessen wurde Ruby 1.9.3-p545 veröffentlicht.
+Herzlichen Glückwunsch, Ruby!
+Heute, am 24. Februar, wird Ruby 21 Jahre alt.
+Zur Feier des Tages wurde heute Ruby 1.9.3-p545 veröffentlicht.
 
-Hierbei handelt es sich um die letzte ordentliche Veröffentlichung von
-Ruby 1.9.3, d.h. Ruby 1.9.3 geht nun in die
-Phase der Sicherheits-Maintenenance über und es wird keine weiteren
-Veröffentlichungen geben, sofern nicht kritische Regressions oder
-Sicherheitsprobleme gefunden werden. Danach wird die Unterstützung von
-Ruby 1.9.3 am 24. Februar 2015 vollständig eingestellt.
+Dies ist der letzte ordentliche Release von Ruby 1.9.3.
+Ruby 1.9.3 ist seit heute in der Security-Maintenance-Phase und wird keine
+weiteren Releases erfahren, ausser wenn kritische Regressionen und
+Sicherheitsupdates.
+Diese Phase dauert ein Jahr.
+Am 24. Februar 2015 endet die Pflege für Ruby 1.9.3.
 
-Diese Veröffentlichung enthält zahlreiche Fehlerkorrekturen. Siehe für
-weitere Informationen die
-[Tickets](https://bugs.ruby-lang.org/projects/ruby-193/issues?set_filter=1&amp;status_id=5)
-und das
-[ChangeLog](http://svn.ruby-lang.org/repos/ruby/tags/v1_9_3_545/ChangeLog).
+Dieser Release enthält eine reihe von Bugfixes.
+Die Details finden sich in den [tickets](https://bugs.ruby-lang.org/projects/ruby-193/issues?set_filter=1&amp;status_id=5)
+und dem [ChangeLog](http://svn.ruby-lang.org/repos/ruby/tags/v1_9_3_545/ChangeLog).
 
 ## Download
 
@@ -45,8 +44,7 @@ und das
 
 ## Release Comment
 
-Ich danke allen, die Ruby unterstützen.
-Vielen Dank.
+Ich möchte an dieser Stelle jedem danken, der Ruby unterstützt.
 
-Diese Veröffentlichung erfolgt im Gedenken an unseren besten
-Kameraden, Jim Weirich. Vielen Dank dir, Jim. Ruhe in Frieden.
+Dieser Release ist unserem guten Freund Jim Weirich gewidmet.
+Danke Jim. Ruhe in Frieden.
